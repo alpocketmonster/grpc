@@ -1,4 +1,4 @@
 # gRPC services
-1. Go service
-2. Python service
+1. Go services
+2. Python services
 3. Configs, dockerfiles
